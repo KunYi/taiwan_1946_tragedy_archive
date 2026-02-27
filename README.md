@@ -64,9 +64,20 @@ Reconstructed images will be saved in the /`processed_images` folder.
 
 ## 📄 Content Summary
 1. **Part 1 (Apr 15):** [Administrative chaos and the "Out of the frying pan into the fire" sentiment.](processed_images/April15_stitched.jpg)
+
+![Administrative chaos and the "Out of the frying pan into the fire" sentiment.](processed_images/April15_stitched.jpg)
+
 2. **Part 2 (Apr 16):** [Extortion rackets targeting repatriating Japanese and seizure of property.](processed_images/April16_stitched.jpg)
+
+![Extortion rackets targeting repatriating Japanese and seizure of property.](processed_images/April16_stitched.jpg)
+
 3. **Part 3 (Apr 17):** ["The Big Squeeze" - Monopoly over rice, coal, and sugar.](processed_images/April17_stitched.jpg)
+
+!["The Big Squeeze" - Monopoly over rice, coal, and sugar.](processed_images/April17_stitched.jpg)
+
 4. **Part 4 (Apr 18):** [Industrial paralysis and the decay of infrastructure.](processed_images/April18_stitched.jpg)
+
+![Industrial paralysis and the decay of infrastructure.](processed_images/April18_stitched.jpg)
 
 ---
 

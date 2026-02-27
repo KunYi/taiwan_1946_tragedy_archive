@@ -62,6 +62,12 @@ Reconstructed images will be saved in the /`processed_images` folder.
 
 ---
 
+## 🔎 Viewing Tips
+> **IMPORTANT:** The reconstructed newspaper pages are high-resolution.
+> To read the fine print, please **Right-click on the image** and select **"Open image in new tab"**, or click the link below each image to access the raw file.
+
+---
+
 ## 📄 Content Summary
 1. **Part 1 (Apr 15):** [Administrative chaos and the "Out of the frying pan into the fire" sentiment.](processed_images/April15_stitched.jpg)
 
